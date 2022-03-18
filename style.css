@@ -6,7 +6,7 @@
   border-radius: 20px;
 }
 .carousel-item {
-  padding: 20px 20px;
+  padding: 20px 30px;
 }
 .price {
   color: #ff136f;
@@ -19,4 +19,44 @@
   border-radius: 8px;
   padding: 9px 25px;
   cursor: pointer;
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+  border-radius: 12px;
+}
+.cat1 {
+  background-color: #ff9c35;
+}
+.cat2 {
+  background-color: #ff589b;
+}
+.cat3 {
+  background-color: #4289ff;
+}
+.categories h1 {
+  color: #fff;
+}
+.categories img {
+  width: 100px;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+  border-radius: 10px;
+  border-top: none;
+}
+#Contact {
+  height: 300px;
+}
+#Contact h6 {
+  color: gray;
+}
+footer p {
+  font-size: 15px;
+  text-align: center;
 }
